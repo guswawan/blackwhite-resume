@@ -1,2 +1,2 @@
 # blackwhite-resume
-learn to make a resume with html css
+learn to make a personal static web with html css
